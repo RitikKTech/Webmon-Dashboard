@@ -1,0 +1,7 @@
+{
+  "urls": [
+    "https://example.com",
+    "https://thissitedoesnotexist123456789.com"
+  ],
+  "interval": 60
+}
